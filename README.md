@@ -381,7 +381,7 @@ SOFTWARE.
 
 **If you found this project helpful, please consider giving it a ⭐!**
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/indian-license-plate-reader&type=Date)](https://star-history.com/#yourusername/indian-license-plate-reader&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=priyanshugar-gg/indian-license-plate-reader&type=Date)](https://star-history.com/#yourusername/indian-license-plate-reader&Date)
 
 </div>
 
