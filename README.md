@@ -202,16 +202,9 @@ graph TD
 
 ---
 
-## 📸 Screenshots
+## 📹 Demo Video
 
-### Main Interface
-![Main Interface]([images/main-interface.png](https://github.com/user-attachments/assets/98ca653b-e16a-4611-bf26-35e46108fc4c))
-
-### Image Processing
-![Processing](images/processing-demo.png)
-
-### Results Display
-![Results](images/result-example.png)
+### Link(https://drive.google.com/file/d/1YcxYvJUyDV-eNt0goh8g_2Lx8ChpyrdK/view?usp=sharing)
 
 ---
 
