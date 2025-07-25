@@ -1,0 +1,6 @@
+streamlit
+paddleocr
+opencv-python-headless
+Pillow
+numpy
+pyarrow
